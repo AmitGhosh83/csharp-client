@@ -1,0 +1,7 @@
+D:\Classroom\csharp-client\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csprojAssemblyReference.cache
+D:\Classroom\csharp-client\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Classroom\csharp-client\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1\App.g.cs
+D:\Classroom\csharp-client\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1\MainWindow.g.cs
+D:\Classroom\csharp-client\WpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Classroom\csharp-client\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+D:\Classroom\csharp-client\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.lref

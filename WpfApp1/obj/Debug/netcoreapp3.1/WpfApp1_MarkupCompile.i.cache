@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-D:\Classroom\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\
+D:\Classroom\csharp-client\WpfApp1\obj\Debug\netcoreapp3.1\
 WpfApp1
 none
 false
 TRACE;DEBUG;NETCOREAPP;NETCOREAPP3_1
-D:\Classroom\WpfApp1\WpfApp1\App.xaml
-11151548125
+D:\Classroom\csharp-client\WpfApp1\App.xaml
+3-881064245
 
-4-267881840
+10-1892430748
 1921654412462
-MainWindow.xaml;
+MainWindow.xaml;WpfApp1\App.xaml;WpfApp1\MainWindow.xaml;
 
 False
 

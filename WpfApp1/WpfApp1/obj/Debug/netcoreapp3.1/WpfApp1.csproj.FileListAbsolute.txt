@@ -1,0 +1,17 @@
+D:\Classroom\csharp-client\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.exe
+D:\Classroom\csharp-client\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.deps.json
+D:\Classroom\csharp-client\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.json
+D:\Classroom\csharp-client\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.dev.json
+D:\Classroom\csharp-client\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.dll
+D:\Classroom\csharp-client\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.pdb
+D:\Classroom\csharp-client\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csprojAssemblyReference.cache
+D:\Classroom\csharp-client\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Classroom\csharp-client\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Classroom\csharp-client\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+D:\Classroom\csharp-client\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.lref
+D:\Classroom\csharp-client\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Classroom\csharp-client\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.g.resources
+D:\Classroom\csharp-client\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfoInputs.cache
+D:\Classroom\csharp-client\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfo.cs
+D:\Classroom\csharp-client\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.dll
+D:\Classroom\csharp-client\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.pdb

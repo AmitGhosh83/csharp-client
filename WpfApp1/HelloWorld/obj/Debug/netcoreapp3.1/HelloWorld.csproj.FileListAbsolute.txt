@@ -1,0 +1,17 @@
+D:\Classroom\csharp-client\WpfApp1\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.exe
+D:\Classroom\csharp-client\WpfApp1\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.deps.json
+D:\Classroom\csharp-client\WpfApp1\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.json
+D:\Classroom\csharp-client\WpfApp1\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.runtimeconfig.dev.json
+D:\Classroom\csharp-client\WpfApp1\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.dll
+D:\Classroom\csharp-client\WpfApp1\HelloWorld\bin\Debug\netcoreapp3.1\HelloWorld.pdb
+D:\Classroom\csharp-client\WpfApp1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.csprojAssemblyReference.cache
+D:\Classroom\csharp-client\WpfApp1\HelloWorld\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Classroom\csharp-client\WpfApp1\HelloWorld\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Classroom\csharp-client\WpfApp1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld_MarkupCompile.cache
+D:\Classroom\csharp-client\WpfApp1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld_MarkupCompile.lref
+D:\Classroom\csharp-client\WpfApp1\HelloWorld\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Classroom\csharp-client\WpfApp1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.g.resources
+D:\Classroom\csharp-client\WpfApp1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfoInputs.cache
+D:\Classroom\csharp-client\WpfApp1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.AssemblyInfo.cs
+D:\Classroom\csharp-client\WpfApp1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.dll
+D:\Classroom\csharp-client\WpfApp1\HelloWorld\obj\Debug\netcoreapp3.1\HelloWorld.pdb
