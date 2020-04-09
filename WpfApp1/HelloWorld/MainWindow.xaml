@@ -8,11 +8,13 @@
         Title="MainWindow" Height="350" Width="525" WindowState="Maximized">
     <Grid>
         <StackPanel>
-            <TextBlock>Enter Name:</TextBlock>
-            <TextBox x:Name="uxName" Background="#FF2B2525" TextChanged="ux_TextChanged"></TextBox>
-            <TextBlock>Enter Password:</TextBlock>
-            <TextBox x:Name="uxPassword" TextChanged="ux_TextChanged"></TextBox>
-            <Button x:Name="uxSubmit" Click="uxSubmit_Click">Submit</Button>
+            <TextBlock Padding="10">Enter Name:</TextBlock>
+            <TextBox x:Name="uxName"  TextChanged="uxUserName_TextChanged" Margin="10 0"></TextBox>
+            <TextBlock Padding="10" >Enter Password:</TextBlock>
+            <TextBox x:Name="uxPassword" TextChanged="uxPassword_TextChanged" Margin="10 0"></TextBox>
+            <Button x:Name="uxSubmit" Click="uxSubmit_Click" 
+                    Background="Chocolate"
+                    HorizontalAlignment="Center" Margin="0 20" Height="23" Width="52">Submit</Button>
         </StackPanel>
     </Grid>
 </Window>
