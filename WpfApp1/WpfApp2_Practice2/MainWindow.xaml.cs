@@ -12,20 +12,21 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using WpfApp2_PracticeBInding.Models;
 
-namespace WpfApp2_PracticeBInding
+namespace WpfApp2_Practice2
 {
     /// <summary>
     /// Interaction logic for MainWindow.xaml
     /// </summary>
     public partial class MainWindow : Window
     {
-        private User _user = new User(); 
+        private Models.User user = new Models.User();
+
         public MainWindow()
         {
             InitializeComponent();
-            uxContainer.DataContext = _user;
+            uxName.DataContext = user;
+            uxNameError.DataContext = user;
         }
     }
 }
