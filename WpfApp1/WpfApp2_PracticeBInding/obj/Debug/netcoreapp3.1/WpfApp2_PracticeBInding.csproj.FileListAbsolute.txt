@@ -1,0 +1,17 @@
+D:\Classroom\csharp-client\WpfApp1\WpfApp2_PracticeBInding\bin\Debug\netcoreapp3.1\WpfApp2_PracticeBInding.exe
+D:\Classroom\csharp-client\WpfApp1\WpfApp2_PracticeBInding\bin\Debug\netcoreapp3.1\WpfApp2_PracticeBInding.deps.json
+D:\Classroom\csharp-client\WpfApp1\WpfApp2_PracticeBInding\bin\Debug\netcoreapp3.1\WpfApp2_PracticeBInding.runtimeconfig.json
+D:\Classroom\csharp-client\WpfApp1\WpfApp2_PracticeBInding\bin\Debug\netcoreapp3.1\WpfApp2_PracticeBInding.runtimeconfig.dev.json
+D:\Classroom\csharp-client\WpfApp1\WpfApp2_PracticeBInding\bin\Debug\netcoreapp3.1\WpfApp2_PracticeBInding.dll
+D:\Classroom\csharp-client\WpfApp1\WpfApp2_PracticeBInding\bin\Debug\netcoreapp3.1\WpfApp2_PracticeBInding.pdb
+D:\Classroom\csharp-client\WpfApp1\WpfApp2_PracticeBInding\obj\Debug\netcoreapp3.1\WpfApp2_PracticeBInding.csprojAssemblyReference.cache
+D:\Classroom\csharp-client\WpfApp1\WpfApp2_PracticeBInding\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Classroom\csharp-client\WpfApp1\WpfApp2_PracticeBInding\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Classroom\csharp-client\WpfApp1\WpfApp2_PracticeBInding\obj\Debug\netcoreapp3.1\WpfApp2_PracticeBInding_MarkupCompile.cache
+D:\Classroom\csharp-client\WpfApp1\WpfApp2_PracticeBInding\obj\Debug\netcoreapp3.1\WpfApp2_PracticeBInding_MarkupCompile.lref
+D:\Classroom\csharp-client\WpfApp1\WpfApp2_PracticeBInding\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Classroom\csharp-client\WpfApp1\WpfApp2_PracticeBInding\obj\Debug\netcoreapp3.1\WpfApp2_PracticeBInding.g.resources
+D:\Classroom\csharp-client\WpfApp1\WpfApp2_PracticeBInding\obj\Debug\netcoreapp3.1\WpfApp2_PracticeBInding.AssemblyInfoInputs.cache
+D:\Classroom\csharp-client\WpfApp1\WpfApp2_PracticeBInding\obj\Debug\netcoreapp3.1\WpfApp2_PracticeBInding.AssemblyInfo.cs
+D:\Classroom\csharp-client\WpfApp1\WpfApp2_PracticeBInding\obj\Debug\netcoreapp3.1\WpfApp2_PracticeBInding.dll
+D:\Classroom\csharp-client\WpfApp1\WpfApp2_PracticeBInding\obj\Debug\netcoreapp3.1\WpfApp2_PracticeBInding.pdb
