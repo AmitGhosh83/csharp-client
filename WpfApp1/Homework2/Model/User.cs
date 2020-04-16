@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.ComponentModel;
 using System.Text;
 
-namespace WpfApp2_PracticeBInding.Models
+namespace Homework2.Model
 {
     class User : IDataErrorInfo, INotifyPropertyChanged
     {
@@ -30,13 +30,13 @@ namespace WpfApp2_PracticeBInding.Models
 
         public string PasswordError
         {
-            get 
-            { 
-                return passwordError; 
-            }
-            set 
+            get
             {
-                if(passwordError!=value)
+                return passwordError;
+            }
+            set
+            {
+                if (passwordError != value)
                 {
                     passwordError = value;
                     OnPropertyChanged("PasswordError");
@@ -63,7 +63,7 @@ namespace WpfApp2_PracticeBInding.Models
         public string Password
         {
             get
-            
+
             {
                 return password;
             }

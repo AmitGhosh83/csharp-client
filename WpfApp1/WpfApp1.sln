@@ -9,6 +9,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\He
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp2_PracticeBInding", "WpfApp2_PracticeBInding\WpfApp2_PracticeBInding.csproj", "{86C99834-39BE-473F-8771-33BAC1CDB520}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework2", "Homework2\Homework2.csproj", "{6EA31B05-4EFD-4C79-ACD8-9DB03781DDD6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{86C99834-39BE-473F-8771-33BAC1CDB520}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{86C99834-39BE-473F-8771-33BAC1CDB520}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{86C99834-39BE-473F-8771-33BAC1CDB520}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6EA31B05-4EFD-4C79-ACD8-9DB03781DDD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6EA31B05-4EFD-4C79-ACD8-9DB03781DDD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6EA31B05-4EFD-4C79-ACD8-9DB03781DDD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6EA31B05-4EFD-4C79-ACD8-9DB03781DDD6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

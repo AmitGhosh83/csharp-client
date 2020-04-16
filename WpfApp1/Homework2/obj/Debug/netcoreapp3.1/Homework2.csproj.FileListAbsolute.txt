@@ -1,0 +1,11 @@
+D:\Classroom\csharp-client\WpfApp1\Homework2\bin\Debug\netcoreapp3.1\Homework2.exe
+D:\Classroom\csharp-client\WpfApp1\Homework2\bin\Debug\netcoreapp3.1\Homework2.deps.json
+D:\Classroom\csharp-client\WpfApp1\Homework2\bin\Debug\netcoreapp3.1\Homework2.runtimeconfig.json
+D:\Classroom\csharp-client\WpfApp1\Homework2\bin\Debug\netcoreapp3.1\Homework2.runtimeconfig.dev.json
+D:\Classroom\csharp-client\WpfApp1\Homework2\bin\Debug\netcoreapp3.1\Homework2.dll
+D:\Classroom\csharp-client\WpfApp1\Homework2\bin\Debug\netcoreapp3.1\Homework2.pdb
+D:\Classroom\csharp-client\WpfApp1\Homework2\obj\Debug\netcoreapp3.1\Homework2.csprojAssemblyReference.cache
+D:\Classroom\csharp-client\WpfApp1\Homework2\obj\Debug\netcoreapp3.1\Homework2.AssemblyInfoInputs.cache
+D:\Classroom\csharp-client\WpfApp1\Homework2\obj\Debug\netcoreapp3.1\Homework2.AssemblyInfo.cs
+D:\Classroom\csharp-client\WpfApp1\Homework2\obj\Debug\netcoreapp3.1\Homework2.dll
+D:\Classroom\csharp-client\WpfApp1\Homework2\obj\Debug\netcoreapp3.1\Homework2.pdb
