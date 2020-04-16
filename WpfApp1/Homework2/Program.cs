@@ -25,8 +25,8 @@ namespace Homework2
 
             //Task1
             var userswithPasswordHello = users.Where(x => x.Password == "hello").ToList();
-            string lines = string.Join(Environment.NewLine, userswithPasswordHello.Select(r => new { r.Name, r.Password }));
-            Console.WriteLine(lines);
+            string task1 = string.Join(Environment.NewLine, userswithPasswordHello.Select(r => new { r.Name, r.Password }));
+            Console.WriteLine(task1);
             Console.WriteLine();
 
             //Task2
