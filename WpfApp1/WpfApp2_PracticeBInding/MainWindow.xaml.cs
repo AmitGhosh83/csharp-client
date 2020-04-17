@@ -1,18 +1,5 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows;
-using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
-using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
-using WpfApp2_PracticeBInding.Models;
+﻿using System.Windows;
+using Microsoft.EntityFrameworkCore;
 
 namespace WpfApp2_PracticeBInding
 {
@@ -26,6 +13,20 @@ namespace WpfApp2_PracticeBInding
         {
             InitializeComponent();
             uxContainer.DataContext = _user;
+            var sample = new SampleContext();
+            sample.User.Load();
+            var users = sample.User.Local.ToObservableCollection();
+            uxList.ItemsSource = users;
+        }
+
+        private void uxSubmit_Click(object sender, RoutedEventArgs e)
+        {
+            MessageBox.Show("Submitting password:" + uxPassword.Text);
+
+            var window = new SecondWindow();
+            Application.Current.MainWindow = window;
+            Close();
+            window.Show();
         }
     }
 }

@@ -12,6 +12,12 @@ namespace WpfApp2_PracticeBInding.Models
         private string nameError;
         private string passwordError;
 
+        // Add ToString method
+        public override string ToString()
+        {
+            return name;
+        }
+
         public string NameError
         {
             get

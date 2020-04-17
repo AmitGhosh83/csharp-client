@@ -12,6 +12,11 @@ namespace Homework2.Model
         private string nameError;
         private string passwordError;
 
+        public override string ToString()
+        {
+            return this.Name;
+        }
+
         public string NameError
         {
             get
@@ -137,5 +142,6 @@ namespace Homework2.Model
                 PropertyChanged(this, new PropertyChangedEventArgs(propertyName));
             }
         }
+
     }
 }
