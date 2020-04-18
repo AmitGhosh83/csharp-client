@@ -1,0 +1,17 @@
+D:\Classroom\csharp-client\WpfApp1\Homework3\bin\Debug\netcoreapp3.1\Homework3.exe
+D:\Classroom\csharp-client\WpfApp1\Homework3\bin\Debug\netcoreapp3.1\Homework3.deps.json
+D:\Classroom\csharp-client\WpfApp1\Homework3\bin\Debug\netcoreapp3.1\Homework3.runtimeconfig.json
+D:\Classroom\csharp-client\WpfApp1\Homework3\bin\Debug\netcoreapp3.1\Homework3.runtimeconfig.dev.json
+D:\Classroom\csharp-client\WpfApp1\Homework3\bin\Debug\netcoreapp3.1\Homework3.dll
+D:\Classroom\csharp-client\WpfApp1\Homework3\bin\Debug\netcoreapp3.1\Homework3.pdb
+D:\Classroom\csharp-client\WpfApp1\Homework3\obj\Debug\netcoreapp3.1\Homework3.csprojAssemblyReference.cache
+D:\Classroom\csharp-client\WpfApp1\Homework3\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+D:\Classroom\csharp-client\WpfApp1\Homework3\obj\Debug\netcoreapp3.1\App.g.cs
+D:\Classroom\csharp-client\WpfApp1\Homework3\obj\Debug\netcoreapp3.1\Homework3_MarkupCompile.cache
+D:\Classroom\csharp-client\WpfApp1\Homework3\obj\Debug\netcoreapp3.1\Homework3_MarkupCompile.lref
+D:\Classroom\csharp-client\WpfApp1\Homework3\obj\Debug\netcoreapp3.1\MainWindow.baml
+D:\Classroom\csharp-client\WpfApp1\Homework3\obj\Debug\netcoreapp3.1\Homework3.g.resources
+D:\Classroom\csharp-client\WpfApp1\Homework3\obj\Debug\netcoreapp3.1\Homework3.AssemblyInfoInputs.cache
+D:\Classroom\csharp-client\WpfApp1\Homework3\obj\Debug\netcoreapp3.1\Homework3.AssemblyInfo.cs
+D:\Classroom\csharp-client\WpfApp1\Homework3\obj\Debug\netcoreapp3.1\Homework3.dll
+D:\Classroom\csharp-client\WpfApp1\Homework3\obj\Debug\netcoreapp3.1\Homework3.pdb

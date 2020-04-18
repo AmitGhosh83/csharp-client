@@ -7,9 +7,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfApp1", "WpfApp1\WpfApp1.
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "HelloWorld\HelloWorld.csproj", "{24A0DA92-1EDE-428F-AD42-D6DBDF38CA76}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfApp2_PracticeBInding", "WpfApp2_PracticeBInding\WpfApp2_PracticeBInding.csproj", "{86C99834-39BE-473F-8771-33BAC1CDB520}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfApp2_PracticeBInding", "WpfApp2_PracticeBInding\WpfApp2_PracticeBInding.csproj", "{86C99834-39BE-473F-8771-33BAC1CDB520}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework2", "Homework2\Homework2.csproj", "{6EA31B05-4EFD-4C79-ACD8-9DB03781DDD6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework2", "Homework2\Homework2.csproj", "{6EA31B05-4EFD-4C79-ACD8-9DB03781DDD6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework3", "Homework3\Homework3.csproj", "{A2390C31-D884-4BAE-934F-E0D6A5A02921}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{6EA31B05-4EFD-4C79-ACD8-9DB03781DDD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6EA31B05-4EFD-4C79-ACD8-9DB03781DDD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6EA31B05-4EFD-4C79-ACD8-9DB03781DDD6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A2390C31-D884-4BAE-934F-E0D6A5A02921}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A2390C31-D884-4BAE-934F-E0D6A5A02921}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A2390C31-D884-4BAE-934F-E0D6A5A02921}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A2390C31-D884-4BAE-934F-E0D6A5A02921}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
