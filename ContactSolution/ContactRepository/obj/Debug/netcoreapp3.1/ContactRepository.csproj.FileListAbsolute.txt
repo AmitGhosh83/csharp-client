@@ -1,0 +1,13 @@
+D:\Classroom\csharp-client\ContactSolution\ContactRepository\bin\Debug\netcoreapp3.1\ContactRepository.deps.json
+D:\Classroom\csharp-client\ContactSolution\ContactRepository\bin\Debug\netcoreapp3.1\ContactRepository.dll
+D:\Classroom\csharp-client\ContactSolution\ContactRepository\obj\Debug\netcoreapp3.1\ContactRepository.csprojAssemblyReference.cache
+D:\Classroom\csharp-client\ContactSolution\ContactRepository\obj\Debug\netcoreapp3.1\ContactRepository.AssemblyInfoInputs.cache
+D:\Classroom\csharp-client\ContactSolution\ContactRepository\obj\Debug\netcoreapp3.1\ContactRepository.AssemblyInfo.cs
+D:\Classroom\csharp-client\ContactSolution\ContactRepository\bin\Debug\netcoreapp3.1\ContactRepository.runtimeconfig.json
+D:\Classroom\csharp-client\ContactSolution\ContactRepository\bin\Debug\netcoreapp3.1\ContactRepository.runtimeconfig.dev.json
+D:\Classroom\csharp-client\ContactSolution\ContactRepository\bin\Debug\netcoreapp3.1\ContactRepository.pdb
+D:\Classroom\csharp-client\ContactSolution\ContactRepository\bin\Debug\netcoreapp3.1\ContactDB.dll
+D:\Classroom\csharp-client\ContactSolution\ContactRepository\bin\Debug\netcoreapp3.1\ContactDB.pdb
+D:\Classroom\csharp-client\ContactSolution\ContactRepository\obj\Debug\netcoreapp3.1\ContactRepository.csproj.CopyComplete
+D:\Classroom\csharp-client\ContactSolution\ContactRepository\obj\Debug\netcoreapp3.1\ContactRepository.dll
+D:\Classroom\csharp-client\ContactSolution\ContactRepository\obj\Debug\netcoreapp3.1\ContactRepository.pdb

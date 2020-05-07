@@ -1,0 +1,10 @@
+D:\Classroom\csharp-client\ContactSolution\ContactDB\bin\Debug\netcoreapp3.1\ContactDB.deps.json
+D:\Classroom\csharp-client\ContactSolution\ContactDB\bin\Debug\netcoreapp3.1\ContactDB.dll
+D:\Classroom\csharp-client\ContactSolution\ContactDB\obj\Debug\netcoreapp3.1\ContactDB.csprojAssemblyReference.cache
+D:\Classroom\csharp-client\ContactSolution\ContactDB\obj\Debug\netcoreapp3.1\ContactDB.AssemblyInfoInputs.cache
+D:\Classroom\csharp-client\ContactSolution\ContactDB\obj\Debug\netcoreapp3.1\ContactDB.AssemblyInfo.cs
+D:\Classroom\csharp-client\ContactSolution\ContactDB\bin\Debug\netcoreapp3.1\ContactDB.runtimeconfig.json
+D:\Classroom\csharp-client\ContactSolution\ContactDB\bin\Debug\netcoreapp3.1\ContactDB.runtimeconfig.dev.json
+D:\Classroom\csharp-client\ContactSolution\ContactDB\bin\Debug\netcoreapp3.1\ContactDB.pdb
+D:\Classroom\csharp-client\ContactSolution\ContactDB\obj\Debug\netcoreapp3.1\ContactDB.dll
+D:\Classroom\csharp-client\ContactSolution\ContactDB\obj\Debug\netcoreapp3.1\ContactDB.pdb
