@@ -1,0 +1,31 @@
+﻿<Window x:Class="WpfApp2_PracticeBInding.StatusWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp2_PracticeBInding"
+        mc:Ignorable="d"
+        Title="StatusWindow" Height="450" Width="800" 
+        FocusManager.FocusedElement="{Binding ElementName=uxTextEditor}">
+    <DockPanel>
+        <StatusBar DockPanel.Dock="Bottom">
+            <StatusBarItem>
+                <TextBlock x:Name="uxStatus"></TextBlock>
+            </StatusBarItem>
+            <Separator />
+            <StatusBarItem>
+                <ProgressBar x:Name="uxProgressBar"  Width="90" Height="16"
+                             Minimum="0" Maximum="100" >
+                    
+                </ProgressBar>
+            </StatusBarItem>
+            <StatusBarItem>
+                <TextBox x:Name="uxComplete" />
+            </StatusBarItem>
+        </StatusBar>
+        <TextBox x:Name="uxTextEditor" MaxLength="{Binding ElementName=uxProgressBar, Path=Maximum}"  AcceptsReturn="true" 
+                 SelectionChanged="uxTextEditor_SelectionChanged">
+
+        </TextBox>
+    </DockPanel>
+</Window>

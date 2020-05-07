@@ -11,9 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WpfApp2_PracticeBInding", "
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework2", "Homework2\Homework2.csproj", "{6EA31B05-4EFD-4C79-ACD8-9DB03781DDD6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework3", "Homework3\Homework3.csproj", "{A2390C31-D884-4BAE-934F-E0D6A5A02921}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework3", "Homework3\Homework3.csproj", "{A2390C31-D884-4BAE-934F-E0D6A5A02921}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Homework4", "Homework4\Homework4.csproj", "{0E6590A2-C017-49FB-8FB1-5B7F50AE5948}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Homework4", "Homework4\Homework4.csproj", "{0E6590A2-C017-49FB-8FB1-5B7F50AE5948}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

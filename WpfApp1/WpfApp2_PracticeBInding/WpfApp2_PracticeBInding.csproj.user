@@ -10,7 +10,25 @@
     <Compile Update="ComboWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Update="MenuWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="NumericControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RBGControl.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="ResourceWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="RGBWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="SecondWindow.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="StatusWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
@@ -18,10 +36,34 @@
     <Page Update="ComboWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="Dictionary1.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Dictionary2.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="MainWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
+    <Page Update="MenuWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="NumericControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RBGControl.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="ResourceWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="RGBWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="SecondWindow.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="StatusWindow.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>
