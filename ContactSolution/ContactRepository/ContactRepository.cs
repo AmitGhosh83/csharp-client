@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 
+
 namespace ContactRepository
 {
     public class ContactModel
@@ -55,6 +56,8 @@ namespace ContactRepository
                 PhoneType = dbContactModel.ContactPhoneType
             };
             return contactModel;
+        
+        
         }
         //Get the list of all contacts in Database and map it to ContactModel
         public List<ContactModel> GetAll()

@@ -4,9 +4,6 @@ using System.Windows;
 
 namespace ContactApp
 {
-    /// <summary>
-    /// Interaction logic for ContactWindow.xaml
-    /// </summary>
     public partial class ContactWindow : Window
     {
         public ContactWindow()

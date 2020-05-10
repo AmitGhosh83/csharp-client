@@ -24,11 +24,31 @@
             
             <ListView.View>
                 <GridView>
-                    <GridViewColumn DisplayMemberBinding="{Binding Name}" Header="Name" Width="100" />
-                    <GridViewColumn DisplayMemberBinding="{Binding Email}" Header="Email" Width="100" />
-                    <GridViewColumn DisplayMemberBinding="{Binding PhoneType}" Header="Phone Type" Width="100" />
-                    <GridViewColumn DisplayMemberBinding="{Binding PhoneNumber}" Header="Phone Number" Width="100" />
-                    <GridViewColumn DisplayMemberBinding="{Binding Age}" Header="Age" Width="100" />
+                    <GridViewColumn DisplayMemberBinding="{Binding Name}" Width="100" >
+                        <GridViewColumn.Header>
+                            <GridViewColumnHeader Content="Name" Tag="Name" Click="lvUsersColumnHeader_Click"/>
+                        </GridViewColumn.Header>
+                    </GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding Email}" Width="100" >
+                        <GridViewColumn.Header>
+                            <GridViewColumnHeader Content="Email" Tag="Email" Click="lvUsersColumnHeader_Click"/>
+                        </GridViewColumn.Header>
+                    </GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding Phonetype}" Width="100" >
+                        <GridViewColumn.Header>
+                            <GridViewColumnHeader Content="PhoneType" Tag="Phone Type" Click="lvUsersColumnHeader_Click"/>
+                        </GridViewColumn.Header>
+                    </GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding PhoneNumber}" Width="100" >
+                        <GridViewColumn.Header>
+                            <GridViewColumnHeader Content="Phone Number" Tag="Phone Number" Click="lvUsersColumnHeader_Click"/>
+                        </GridViewColumn.Header>
+                    </GridViewColumn>
+                    <GridViewColumn DisplayMemberBinding="{Binding Age}" Width="100" >
+                        <GridViewColumn.Header>
+                            <GridViewColumnHeader Content="Age" Tag="Age" Click="lvUsersColumnHeader_Click"/>
+                        </GridViewColumn.Header>
+                    </GridViewColumn>
                 </GridView>
             </ListView.View>
         </ListView>
