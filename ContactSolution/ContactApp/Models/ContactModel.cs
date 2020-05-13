@@ -19,7 +19,7 @@ namespace ContactApp.Models
         {
             var repositoryModel = new ContactRepository.ContactModel
             {
-                Age = Age,
+                Age= Age,
                 CreatedDate = CreatedDate,
                 Email = Email,
                 Id = Id,

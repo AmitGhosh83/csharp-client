@@ -1,4 +1,5 @@
 ﻿using ContactDB;
+using Microsoft.EntityFrameworkCore;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -80,10 +81,19 @@ namespace ContactRepository
         // Delete a contact based on a provided ID
         public bool Delete(int id)
         {
-            var contactToDelete = DatabaseManager.Instance.Contact.Where(x => x.ContactId == id);
-            if(contactToDelete!=null)
+            //var contactToDelete = DatabaseManager.Instance.Contact.Where(x => x.ContactId == id);
+            //if(contactToDelete!=null)
+            //{
+            //    DatabaseManager.Instance.Contact.RemoveRange(contactToDelete);
+            //    DatabaseManager.Instance.SaveChanges();
+            //    return true;
+            //}
+            //return false;
+
+            var contactToDelete = new ContactDB.Contact { ContactId = id };
+            if(contactToDelete != null)
             {
-                DatabaseManager.Instance.Contact.RemoveRange(contactToDelete);
+                DatabaseManager.Instance.Entry(contactToDelete).State = EntityState.Deleted;
                 DatabaseManager.Instance.SaveChanges();
                 return true;
             }
