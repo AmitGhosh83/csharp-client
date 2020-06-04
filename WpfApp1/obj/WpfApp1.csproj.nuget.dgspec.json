@@ -1,18 +1,21 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Classroom\\csharp-client\\WpfApp1\\WpfApp1.csproj": {}
+    "C:\\AmitWork\\Updated\\csharp-client\\WpfApp1\\WpfApp1.csproj": {}
   },
   "projects": {
-    "D:\\Classroom\\csharp-client\\WpfApp1\\WpfApp1.csproj": {
+    "C:\\AmitWork\\Updated\\csharp-client\\WpfApp1\\WpfApp1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Classroom\\csharp-client\\WpfApp1\\WpfApp1.csproj",
+        "projectUniqueName": "C:\\AmitWork\\Updated\\csharp-client\\WpfApp1\\WpfApp1.csproj",
         "projectName": "WpfApp1",
-        "projectPath": "D:\\Classroom\\csharp-client\\WpfApp1\\WpfApp1.csproj",
+        "projectPath": "C:\\AmitWork\\Updated\\csharp-client\\WpfApp1\\WpfApp1.csproj",
         "packagesPath": "C:\\Users\\Amit_\\.nuget\\packages\\",
-        "outputPath": "D:\\Classroom\\csharp-client\\WpfApp1\\obj\\",
+        "outputPath": "C:\\AmitWork\\Updated\\csharp-client\\WpfApp1\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
         "configFilePaths": [
           "C:\\Users\\Amit_\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
@@ -55,7 +58,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.101\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
